@@ -11,7 +11,8 @@
 - In command line navigate to the `DateTimeAutomation` folder (where pom.xml file is located)
 - Run the comand:
 mvn test clean
-Note, if you see the error: ../lib/tools.jar not found during the commpelation,
+
+- Note, if you see the error: ../lib/tools.jar not found during the commpelation,
 download [tools] and put it into C:\Program Files\Java\jdk-{version}\lib
 
 
