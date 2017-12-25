@@ -8,7 +8,7 @@
 
 - Install the latest version of [Java 8]
 - Install the latest of [Maven]
-- In command line navigate to the `Ethos` folder (where pom.xml file is located)
+- In command line navigate to the `DateTimeAutomation` folder (where pom.xml file is located)
 - Run the comand:
 mvn test clean
 
